@@ -1,0 +1,7 @@
+D:\Workstation\Projects\soft\FileRenamerWpfApp.pdb
+D:\Workstation\Projects\soft\D3DCompiler_47_cor3.dll
+D:\Workstation\Projects\soft\PenImc_cor3.dll
+D:\Workstation\Projects\soft\PresentationNative_cor3.dll
+D:\Workstation\Projects\soft\vcruntime140_cor3.dll
+D:\Workstation\Projects\soft\wpfgfx_cor3.dll
+D:\Workstation\Projects\soft\FileRenamerWpfApp.exe
