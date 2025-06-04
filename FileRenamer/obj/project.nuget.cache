@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UIhAYJkwMig=",
+  "dgSpecHash": "KAIrx8XncXU=",
   "success": true,
-  "projectFilePath": "D:\\Workstation\\Projects\\Rename me\\FileRenamerWpfApp\\FileRenamerWpfApp.csproj",
+  "projectFilePath": "D:\\Workstation\\Projects\\Rename me\\FileRenamer\\FileRenamer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\awabe\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.16\\microsoft.net.illink.tasks.8.0.16.nupkg.sha512",
     "C:\\Users\\awabe\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.16\\microsoft.netcore.app.runtime.win-x64.8.0.16.nupkg.sha512",

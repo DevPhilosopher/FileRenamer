@@ -82,11 +82,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workstation\\Projects\\Rename me\\FileRenamerWpfApp\\FileRenamerWpfApp.csproj",
-      "projectName": "FileRenamerWpfApp",
-      "projectPath": "D:\\Workstation\\Projects\\Rename me\\FileRenamerWpfApp\\FileRenamerWpfApp.csproj",
+      "projectUniqueName": "D:\\Workstation\\Projects\\Rename me\\FileRenamer\\FileRenamer.csproj",
+      "projectName": "FileRenamer",
+      "projectPath": "D:\\Workstation\\Projects\\Rename me\\FileRenamer\\FileRenamer.csproj",
       "packagesPath": "C:\\Users\\awabe\\.nuget\\packages\\",
-      "outputPath": "D:\\Workstation\\Projects\\Rename me\\FileRenamerWpfApp\\obj\\",
+      "outputPath": "D:\\Workstation\\Projects\\Rename me\\FileRenamer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\awabe\\AppData\\Roaming\\NuGet\\NuGet.Config"
